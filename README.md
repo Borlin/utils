@@ -1,2 +1,2 @@
 # utils
-storage of utilities
+online storage of general utilities
